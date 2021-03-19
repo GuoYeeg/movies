@@ -1,0 +1,26 @@
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 0px 24px 16px 0;
+  background:url('../images/logo.jpg') no-repeat center top;
+  background-size: auto 100%;
+}
+.ant-layout-header{
+  background-color:#ffff !important;
+}
+.list{
+  display: flex;
+  flex-wrap: wrap;
+}
+.list >div{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.example{
+  text-align: center;
+  width: 100%;
+  height: 700px;
+  padding: 300px 50px;
+
+}
